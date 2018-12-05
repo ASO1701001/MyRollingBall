@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRollingBall</string>
+    <string name="reset_text">リセット</string>
+    <string name="v_start_text">がんばれ！</string>
+    <string name="v_go_text">げーむおーばーだよ！</string>
+    <string name="v_su_text">おめでとう！</string>
+</resources>
